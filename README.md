@@ -11,7 +11,8 @@ The workflow includes data preprocessing, exploratory data analysis, feature eng
 ---
 
 ## 📸 Project Preview
-(Add your screenshot here later)
+<img width="1291" height="767" alt="image" src="https://github.com/user-attachments/assets/fa83d22d-e041-4daa-8d60-2bdc21be9e8c" />
+
 
 ---
 
@@ -25,11 +26,11 @@ The workflow includes data preprocessing, exploratory data analysis, feature eng
 ---
 
 ## 🧠 Machine Learning Workflow
-1. Data Preprocessing
-2. Exploratory Data Analysis (EDA)
-3. Feature Engineering
-4. Model Training
-5. Model Evaluation
+1. Data Preprocessing  
+2. Exploratory Data Analysis (EDA)  
+3. Feature Engineering  
+4. Model Training  
+5. Model Evaluation  
 
 ---
 
@@ -67,3 +68,41 @@ The workflow includes data preprocessing, exploratory data analysis, feature eng
 
 ## 📂 Project Structure
 
+```
+Car-price-prediction-final-
+│
+├── notebooks/
+│   └── FinalProject.ipynb
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## 🚀 How to Run the Project
+
+Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+Open notebook:
+
+```
+notebooks/FinalProject.ipynb
+```
+
+---
+
+## 📈 Key Highlights
+✔ End-to-end Machine Learning workflow  
+✔ Multiple model comparison  
+✔ Data visualization & feature analysis  
+✔ Clean and reproducible pipeline  
+
+---
+
+## 👨‍💻 Author
+**Aditya Charan Eranki**  
+Machine Learning & Data Science Enthusiast
