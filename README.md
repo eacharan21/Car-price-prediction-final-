@@ -1,37 +1,69 @@
 # 🚗 Car Price Prediction using Machine Learning
 
-This project focuses on predicting car prices using multiple Machine Learning algorithms and advanced data analysis techniques.
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ## 📌 Project Overview
-The goal of this project is to analyze car-related features and build predictive models to estimate vehicle prices accurately.
+This project focuses on building a Machine Learning model to predict car prices based on various vehicle features.  
+The workflow includes data preprocessing, exploratory data analysis, feature engineering, and model comparison.
 
-## 🔍 Key Tasks Performed
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Training & Evaluation
-- Performance Comparison
+---
 
-## 🤖 Machine Learning Models Used
+## 📸 Project Preview
+(Add your screenshot here later)
+
+---
+
+## 🎯 Objectives
+- Perform data cleaning and preprocessing
+- Analyze relationships between car features and price
+- Train multiple regression models
+- Compare performance metrics
+- Identify the best-performing model
+
+---
+
+## 🧠 Machine Learning Workflow
+1. Data Preprocessing
+2. Exploratory Data Analysis (EDA)
+3. Feature Engineering
+4. Model Training
+5. Model Evaluation
+
+---
+
+## 🤖 Models Implemented
 - Linear Regression
-- Decision Tree
-- Random Forest
-- Support Vector Machine
-- KNN
-- Neural Networks
-- Boosting & Bagging Techniques
+- Decision Tree Regressor
+- Random Forest Regressor
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+- Ensemble Methods (Bagging & Boosting)
 
-## 📊 Tools & Libraries
+---
+
+## 📊 Model Performance Comparison
+
+| Model | Accuracy / Score |
+|------|------------------|
+| Linear Regression | XX% |
+| Random Forest | XX% |
+| SVM | XX% |
+| KNN | XX% |
+
+*(Update values after checking notebook outputs)*
+
+---
+
+## 🛠️ Tools & Libraries
 - Python
-- Pandas, NumPy
+- Pandas & NumPy
 - Scikit-learn
-- Matplotlib, Seaborn
+- Matplotlib & Seaborn
+- XGBoost
 
-## 📎 Project Files
-- `notebooks/FinalProject.ipynb` — Complete workflow from EDA to model evaluation.
+---
 
-## 🚀 Results
-Multiple models were compared to identify the best performing algorithm based on prediction accuracy.
+## 📂 Project Structure
 
-## 👨‍💻 Author
-Aditya Charan Eranki
