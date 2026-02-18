@@ -11,8 +11,9 @@ The workflow includes data preprocessing, exploratory data analysis, feature eng
 ---
 
 ## 📸 Project Preview
-<img width="1291" height="767" alt="image" src="https://github.com/user-attachments/assets/fa83d22d-e041-4daa-8d60-2bdc21be9e8c" />
-
+<p align="center">
+<img width="900" alt="Project Preview" src="https://github.com/user-attachments/assets/fa83d22d-e041-4daa-8d60-2bdc21be9e8c" />
+</p>
 
 ---
 
@@ -38,24 +39,32 @@ The workflow includes data preprocessing, exploratory data analysis, feature eng
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
-- Support Vector Machine (SVM)
+- XGBRegressor
+- Bagging Regressor
+- Gradient Boosting Regressor
+- AdaBoost Regressor
 - K-Nearest Neighbors (KNN)
-- Ensemble Methods (Bagging & Boosting)
-
+- Support Vector Machine (SVM)
+- Neural Network
 ---
 
 ## 📊 Model Performance Comparison
 
-| Model | Accuracy / Score |
-|------|------------------|
-| Linear Regression | XX% |
-| Random Forest | XX% |
-| SVM | XX% |
-| KNN | XX% |
-
-*(Update values after checking notebook outputs)*
+| Model                      | R² Score |
+|----------------------------|---------|
+| Linear Regression          | 0.4679  |
+| Decision Tree Regressor    | 0.6354  |
+| Random Forest Regressor    | 0.7452  |
+| XGBRegressor               | 0.6854  |
+| Bagging Regressor          | 0.7603  |
+| Gradient Boosting Regressor| 0.4284  |
+| AdaBoost Regressor         | 0.3816  |
+| K-Nearest Neighbours       | 0.1409  |
+| SVM                        | 0.0036  |
+| Neural Network             | 0.3388  |
 
 ---
+> 🏆 **Best Performing Model:** Bagging Regressor — R² Score = **0.7603**
 
 ## 🛠️ Tools & Libraries
 - Python
