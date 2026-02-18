@@ -1,13 +1,37 @@
-# Car Price Prediction Final
+# 🚗 Car Price Prediction using Machine Learning
 
-Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP). 
+This project focuses on predicting car prices using multiple Machine Learning algorithms and advanced data analysis techniques.
 
-Key Highlights:
-  * Studied and performed analysis the Banking dataset to applying ML models and present my insights.
-  * Performed various Exploratory Data Analysis to understand the data and know the relationship between the variables.
-  * Experimented with different Machine Learning algorithms like Linear Regression, KNN, SVM, Bagging, Boosting, Decision Tree, Random Forest, Neural Networks.
-  * Compared the results to recommend the best Machine Learning model.
+## 📌 Project Overview
+The goal of this project is to analyze car-related features and build predictive models to estimate vehicle prices accurately.
 
-COLAB NOTEBOOK LINK: https://colab.research.google.com/github/eacharan21/Car-price-prediction-final-/blob/main/FinalProject.ipynb
+## 🔍 Key Tasks Performed
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Training & Evaluation
+- Performance Comparison
 
-PROJECT PRESENTATION LINK: https://drive.google.com/file/d/1BwYfJiVWGpKxTgljniMo_qIZM65i3xAH/view?usp=share_link
+## 🤖 Machine Learning Models Used
+- Linear Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine
+- KNN
+- Neural Networks
+- Boosting & Bagging Techniques
+
+## 📊 Tools & Libraries
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+
+## 📎 Project Files
+- `FinalProject.ipynb` — Complete workflow from EDA to model evaluation.
+
+## 🚀 Results
+Multiple models were compared to identify the best performing algorithm based on prediction accuracy.
+
+## 👨‍💻 Author
+Aditya Charan Eranki
