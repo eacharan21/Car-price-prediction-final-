@@ -28,7 +28,7 @@ The goal of this project is to analyze car-related features and build predictive
 - Matplotlib, Seaborn
 
 ## 📎 Project Files
-- `FinalProject.ipynb` — Complete workflow from EDA to model evaluation.
+- `notebooks/FinalProject.ipynb` — Complete workflow from EDA to model evaluation.
 
 ## 🚀 Results
 Multiple models were compared to identify the best performing algorithm based on prediction accuracy.
